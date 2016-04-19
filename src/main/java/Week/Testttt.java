@@ -7,7 +7,7 @@ public class Testttt extends Wrapperclass  {
 	public void loginOpenTaps()
 	{
 		launchapp("chrome","http://demo1.opentaps.org/opentaps/control/main");
-		
+		System.out.println("dummytest");
 	}
 
 }
